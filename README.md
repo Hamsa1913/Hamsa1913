@@ -1,57 +1,155 @@
 <div align="center">
 
-# 👩🏻‍💻 Hamsa Al-Ammar  
-### Software Developer | Computer Science & Programming
+# 👋 Hi, I'm Hamsa Al-Ammar
+
+### Front-End Developer • Full-Stack Developer • Software Engineering Student
+
+Building responsive web applications, IoT dashboards, and scalable software solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamsa-al-amaar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hamsa1913)
 
 </div>
 
 ---
 
-## 👋 Welcome to my GitHub
+# 👩🏻‍💻 About Me
 
-I’m Hamsa, a passionate developer interested in building efficient, clean, and scalable software solutions.  
-I’m currently a student in Holberton School at Tuwaiq Academy.  
-I enjoy learning new technologies, solving problems, and improving my coding skills through real projects.
+I'm a Software Engineering student at **Holberton School by Tuwaiq Academy** with a strong interest in Front-End Development and Full-Stack Web Development.
 
----
+I enjoy transforming ideas into real applications through clean code, modern UI design, REST APIs, databases, and collaborative software development.
 
-## 💡 What I Do
-- Build programming projects using clean code principles  
-- Practice problem-solving and algorithms  
-- Explore backend development and database concepts  
-- Work on improving my skills step by step  
+Currently, I'm expanding my skills in Python, Flask, JavaScript, SQL, and IoT systems while building practical projects.
 
 ---
 
-## 🧠 Skills
-**Programming & Development**
+# 🚀 Tech Stack
+
+### Front-End
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- UI/UX
+- Figma
+
+### Back-End
+
 - Python
-- HTML / CSS
-- JavaScript (Currently Learning)
-- SQL Basics
+- Flask
+- REST APIs
 
-**Tools**
-- Git & GitHub
-- Linux / Ubuntu
+### Database
+
+- MySQL
+- SQLAlchemy
+
+### IoT
+
+- ESP32
+- MQTT
+- Temperature Monitoring Systems
+
+### Tools
+
+- Git
+- GitHub
+- Linux
 - VS Code
+- Arduino IDE
 
 ---
 
-## 🎯 Goals
-- Improve backend development skills  
-- Build stronger projects for my portfolio  
-- Learn modern development tools and frameworks  
-- Become a professional software engineer  
+# 📂 Featured Projects
+
+## 🔹 AthrAI — Digital Forensics Platform
+
+AI-powered digital evidence platform developed during the Absher National Hackathon.
+
+**Technologies**
+
+- HTML
+- CSS
+- JavaScript
+- UI/UX
 
 ---
 
-## 🔗 Contact
-💼 LinkedIn: https://www.linkedin.com/in/hamsa-al-amaar
+## 🔹 HBNB — Full-Stack Airbnb Clone
+
+A collaborative full-stack web application built using Flask and REST APIs.
+
+**Technologies**
+
+- Python
+- Flask
+- MySQL
+- SQLAlchemy
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🔹 FlexSight — IoT Temperature Monitoring System
+
+An IoT dashboard that monitors ESP32 temperature sensors, stores readings, and displays real-time monitoring with alerts.
+
+**Technologies**
+
+- ESP32
+- Python
+- Flask
+- MQTT
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced JavaScript
+- React
+- Modern Front-End Development
+- Software Architecture
+- Clean Code
+- Design Patterns
+
+---
+
+# 🎯 Career Goals
+
+- Become a professional Front-End Engineer
+- Build scalable Full-Stack applications
+- Develop impactful software products
+- Contribute to open-source projects
+- Continue learning modern technologies
+
+---
+
+# 📫 Contact
+
+**Email**
+
+Hamsa12021@gmail.com
+
+**LinkedIn**
+
+https://www.linkedin.com/in/hamsa-al-amaar
+
+**GitHub**
+
+https://github.com/Hamsa1913
 
 ---
 
 <div align="center">
 
-✨ *Thanks for visiting my profile. Feel free to explore my repositories.*  
+⭐ Thanks for visiting my GitHub profile!
+
+Feel free to explore my repositories and connect with me.
 
 </div>
